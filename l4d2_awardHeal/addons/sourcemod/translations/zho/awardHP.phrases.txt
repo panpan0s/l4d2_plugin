@@ -1,0 +1,61 @@
+"Phrases"
+{
+
+	"Award rescuer"
+	{
+		"zho"		"救起隊友獎勵"
+	}
+
+	"Award rescued"
+	{
+		"zho"		"被救成功獎勵"
+	}
+
+
+	"Award healer"
+	{
+		"zho"		"包紮隊友獎勵"
+	}
+
+	"Award healed"
+	{
+		"zho"		"醫療包獎勵"
+	}
+	
+	"Award Incapaciatated"
+	{
+		"zho"		"倒地獎勵"
+	}
+
+	"Award Error Message"
+	{
+		"zho"		"[獎勵失敗] HP過多"
+	}
+
+	"Award user of pill"
+	{
+		"zho"		"止痛藥獎勵"
+	}
+
+	"Award user of adrenaline"
+	{
+		"zho"		"賢上線素獎勵"
+	}
+	
+
+	"Award HP"
+	{
+		"zho"		"+%i 主HP"
+	}
+
+	"Award Buff HP"
+	{
+		"zho"		"%i 副HP"
+	}
+
+	"Full HP"
+	{
+		"zho"		"HP全滿"
+	}
+
+}

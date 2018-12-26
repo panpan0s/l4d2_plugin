@@ -1,0 +1,60 @@
+"Phrases"
+{
+
+	"Award rescuer"
+	{
+		"en"		"Award of Reviving"
+	}
+
+	"Award rescued"
+	{
+		"en"		"Award of Revived"
+	}
+
+
+	"Award healer"
+	{
+		"en"		"Award of Healing"
+	}
+
+	"Award healed"
+	{
+		"en"		"Award of Healed"
+	}
+
+	"Award Incapaciatated"
+	{
+		"en"		"Award of Incapacitated"
+	}
+
+	"Award Error Message"
+	{
+		"en"		"[Award Fail] Too Many HP"
+	}
+
+	"Award user of pill"
+	{
+		"en"		"Award of Pill"
+	}
+
+	"Award user of adrenaline"
+	{
+		"en"		"Award of Adrenaline"
+	}
+
+	"Award HP"
+	{
+		"en"		"+%i HP"
+	}
+
+	"Award Buff HP"
+	{
+		"en"		"%i Buffer HP"
+	}
+
+	"Full HP"
+	{
+		"en"		"Full HP"
+	}
+
+}

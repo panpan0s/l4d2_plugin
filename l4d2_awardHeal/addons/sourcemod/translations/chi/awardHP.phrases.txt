@@ -1,0 +1,61 @@
+"Phrases"
+{
+
+	"Award rescuer"
+	{
+		"chi"		"救起队友奖励"
+	}
+
+	"Award rescued"
+	{
+		"chi"		"被救成功奖励"
+	}
+
+
+	"Award healer"
+	{
+		"chi"		"包扎队友奖励"
+	}
+
+	"Award healed"
+	{
+		"chi"		"医疗包奖励"
+	}
+	
+	"Award Incapaciatated"
+	{
+		"chi"		"倒地奖励"
+	}
+
+	"Award Error Message"
+	{
+		"chi"		"[奖励失败] HP过多"
+	}
+
+	"Award user of pill"
+	{
+		"chi"		"止痛药奖励"
+	}
+
+	"Award user of adrenaline"
+	{
+		"chi"		"贤上线素奖励"
+	}
+	
+
+	"Award HP"
+	{
+		"chi"		"+%i 主HP"
+	}
+
+	"Award Buff HP"
+	{
+		"chi"		"%i 副HP"
+	}
+
+	"Full HP"
+	{
+		"chi"		"HP全满"
+	}
+
+}
