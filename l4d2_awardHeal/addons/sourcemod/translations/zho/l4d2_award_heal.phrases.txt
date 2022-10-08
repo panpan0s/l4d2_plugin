@@ -22,7 +22,7 @@
 		"zho"		"醫療包獎勵"
 	}
 	
-	"Award Incapaciatated"
+	"Incapacitated"
 	{
 		"zho"		"倒地獎勵"
 	}
@@ -56,6 +56,28 @@
 	"Full HP"
 	{
 		"zho"		"HP全滿"
+	}
+
+	"AWARD_DEFIBRILLATOR_USED"
+	{
+		"zho"		"救活隊友獎勵"
+
+	}
+
+	"AWARD_DEFIBRILLATED"
+	{
+		"zho"		"復活獎勵"
+	}
+
+	"AWARD_RESCUER"
+	{
+		"zho"		"拯救隊友獎勵"
+
+	}
+
+	"AWARD_RESCUED"
+	{
+		"zho"		"重生獎勵"
 	}
 
 }

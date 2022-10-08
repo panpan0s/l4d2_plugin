@@ -22,7 +22,7 @@
 		"en"		"Award of Healed"
 	}
 
-	"Award Incapaciatated"
+	"Incapacitated"
 	{
 		"en"		"Award of Incapacitated"
 	}
@@ -55,6 +55,27 @@
 	"Full HP"
 	{
 		"en"		"Full HP"
+	}
+
+	"AWARD_DEFIBRILLATOR_USED"
+	{
+		"en"		"Award of Used Defibrillator"
+	}
+
+	"AWARD_DEFIBRILLATED"
+	{
+		"en"		"Award of Defibrillated"
+	}
+
+	"AWARD_RESCUER"
+	{
+		"en"		"Award of Rescuer"
+
+	}
+
+	"AWARD_RESCUED"
+	{
+		"en"		"Award of Rescued"
 	}
 
 }

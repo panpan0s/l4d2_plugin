@@ -22,7 +22,7 @@
 		"ru"		"Награда за Лечение"
 	}
 
-	"Award Incapaciatated"
+	"Incapacitated"
 	{
 		"ru"		"Награда за Выхождение из строя"
 	}
@@ -55,6 +55,28 @@
 	"Full HP"
 	{
 		"ru"		"ОЗ Полон"
+	}
+
+
+	"AWARD_DEFIBRILLATOR_USED"
+	{
+		"ru"		"Награда за использованный дефибриллятор"
+	}
+
+	"AWARD_DEFIBRILLATED"
+	{
+		"ru"		"Награда за дефибрилляцию"
+	}
+
+	"AWARD_RESCUER"
+	{
+		"ru"		"Награда за Спасателя"
+
+	}
+
+	"AWARD_RESCUED"
+	{
+		"ru"		"Награда за спасение»"
 	}
 
 }

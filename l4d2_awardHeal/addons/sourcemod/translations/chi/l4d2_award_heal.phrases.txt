@@ -22,7 +22,7 @@
 		"chi"		"医疗包奖励"
 	}
 	
-	"Award Incapaciatated"
+	"Incapacitated"
 	{
 		"chi"		"倒地奖励"
 	}
@@ -58,4 +58,25 @@
 		"chi"		"HP全满"
 	}
 
+	"AWARD_DEFIBRILLATOR_USED"
+	{
+		"chi"		"救活队友奖励"
+
+	}
+
+	"AWARD_DEFIBRILLATED"
+	{
+		"chi"		"复活奖励"
+	}
+
+	"AWARD_RESCUER"
+	{
+		"chi"		"拯救队友奖励"
+
+	}
+
+	"AWARD_RESCUED"
+	{
+		"chi"		"重生奖励"
+	}
 }
